@@ -1,4 +1,4 @@
-# Analyseur Multi-Agents LangChain
+# Analyseur Multi-Agents
 
 Ce projet est une application en ligne de commande qui permet d'analyser un dépôt Git distant grâce à des agents spécialisés orchestrés avec LangChain.
 
@@ -55,7 +55,6 @@ multi_agent/
 ├── cli.py                 # Lancement de l'analyse en CLI
 ├── agents/                # Agents spécialisés
 ├── orchestrator/          # Orchestrateur LangChain
-├── outputs/               # Dossier pour les résultats (optionnel)
 └── requirements.txt       # Dépendances du projet
 ```
 
